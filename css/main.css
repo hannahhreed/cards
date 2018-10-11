@@ -44,7 +44,7 @@ html {
 }
 
 .cards dt {
-  display:inline-block;
+  display: inline-block;
   width: 6em;
   font-style: italic;
 }
