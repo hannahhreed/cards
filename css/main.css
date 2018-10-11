@@ -42,3 +42,9 @@ html {
 .cards dl {
   margin-bottom: 1rem;
 }
+
+.cards dt {
+  display:inline-block;
+  width: 6em;
+  font-style: italic;
+}
